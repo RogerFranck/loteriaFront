@@ -1,0 +1,1 @@
+export const TABLES_API = '/api/v1/table'
